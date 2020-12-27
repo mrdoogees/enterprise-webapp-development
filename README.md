@@ -4,7 +4,7 @@
 
 - How many log files are keeped ?
 
-- Define the max size of a log file
+- Define the max size of the log file
 
 - Provide a way (file collector) to retrieve log files from production server
 
