@@ -11,10 +11,13 @@ Provide a way (file collector) to retrieve log files from production server
 ### type of connection
 
 #### backdoor : 
+
 activated in dev/uat/int environment only
+
 user needs to type login and password to connect
 
 #### automatic :
+
 activated in staging and production environment only
 
 ### type of accesses
