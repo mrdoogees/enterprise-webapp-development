@@ -1,6 +1,6 @@
 # Enterprise web app development
 
-### log files :
+### Log files :
 
 - How many log files are keeped ?
 
@@ -8,7 +8,7 @@
 
 - Provide a way (file collector) to retrieve log files from production server
 
-### type of connection
+### Type of connection
 
 [backdoor : ](#)
 
@@ -20,7 +20,7 @@
 
 - activated in staging and production environment only
 
-### type of accesses
+### Type of accesses
 - read only : userfull for production team to test the accessibilty of the application after the deployment
 
 - administrator : read/write/execute
