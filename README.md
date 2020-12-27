@@ -21,7 +21,7 @@
 - activated in staging and production environment only
 
 ### type of accesses
-- read only : necessary from production team to test the accessibilty of the application
+- read only : userfull for production team to test the accessibilty of the application after the deployment
 
 - administrator : read/write/execute
 
