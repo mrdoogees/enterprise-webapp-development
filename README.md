@@ -1,4 +1,4 @@
-# Enterprise web app development
+# General
 
 ### Log files :
 
@@ -28,3 +28,14 @@
 - Moa : accesses most of the functionnality of the application
 
 - Clients : restricted access
+
+
+# Audit
+- Create a database table that stores login/logout to the application => it allows to detemrine the number of active users
+
+# Interface
+
+### Log action
+- Web interface to track manual and automatic actions 
+
+
