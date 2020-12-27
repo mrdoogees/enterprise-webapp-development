@@ -10,13 +10,13 @@ Provide a way (file collector) to retrieve log files from production server
 
 ### type of connection
 
-[backdoor : ](url)
+[backdoor : ](#)
 
 activated in dev/uat/int environment only
 
 user needs to type login and password to connect
 
-[automatic :](url)
+[automatic :](#)
 
 activated in staging and production environment only
 
