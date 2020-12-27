@@ -1,24 +1,24 @@
 # Enterprise web app development
 
-- log files :
+### log files :
 
-Roration log
+How many log files are keeped ?
 
-- type of connection
+Define the max size of a log file
 
-backdoor : 
+Provide a way (file collector) to retrieve log files from production server
+
+### type of connection
+
+#### backdoor : 
 activated in dev/uat/int environment only
 user needs to type login and password to connect
 
-automatic :
+#### automatic :
 activated in staging and production environment only
 
-- retrieve log files in prod server
-
-- type of accesses
-read only
-administrator
-moa
-clients
-
-- 
+### type of accesses
+read only : necessary from production team to test the accessibilty of the application
+administrator : read/write/execute
+moa : accesses most of the functionnality of the application
+clients : restricted access
