@@ -10,21 +10,21 @@
 
 ### Type of connection
 
-[backdoor : ](#)
+[BACKDOOR : ](#)
 
-- activated in dev/uat/int environment only
+- Activated in dev/uat/int environment only
 
-- user needs to type login and password to connect
+- User needs to type login and password to connect
 
-[automatic :](#)
+[AUTOMATIC :](#)
 
-- activated in staging and production environment only
+- Activated in staging and production environment only
 
 ### Type of accesses
-- read only : userfull for production team to test the accessibilty of the application after the deployment
+- Read only : userfull for production team to test the accessibilty of the application after the deployment
 
-- administrator : read/write/execute
+- Administrator : read/write/execute
 
-- moa : accesses most of the functionnality of the application
+- Moa : accesses most of the functionnality of the application
 
-- clients : restricted access
+- Clients : restricted access
