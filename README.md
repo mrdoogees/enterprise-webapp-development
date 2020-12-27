@@ -1,10 +1,17 @@
 # Enterprise web app development
 
-- log files
+- log files :
+
+Roration log
 
 - type of connection
-backdoor
-automatic
+
+backdoor : 
+activated in dev/uat/int environment only
+user needs to type login and password to connect
+
+automatic :
+activated in staging and production environment only
 
 - retrieve log files in prod server
 
