@@ -29,6 +29,8 @@
 
 - Clients : restricted access
 
+### Redirection
+- Redirect http to https
 
 # Audit
 - Create a database table that stores login/logout to the application => it allows to detemrine the number of active users
